@@ -1,0 +1,14 @@
+.about-container {
+    @apply p-10
+}
+
+.heading-text {
+    @apply font-bold text-4xl font-poppins text-center
+}
+
+.about-container h1{
+    @apply font-bold font-poppins text-3xl text-slate-800
+}
+.about-section p{
+    @apply font-normal font-poppins text-xl text-justify mb-5 mt-3
+}

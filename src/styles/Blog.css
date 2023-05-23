@@ -1,0 +1,26 @@
+.heading-text {
+    @apply font-bold text-4xl font-poppins text-center
+}
+
+.blog-container {
+    @apply p-10
+}
+
+.blogs{
+    @apply flex flex-wrap justify-between pt-20
+}
+.blog-card{
+    @apply bg-slate-600 mb-5 p-3 text-2xl font-poppins text-white w-[20rem]
+}
+
+.blog-header{
+    @apply font-bold
+}
+
+.blog-description{
+    @apply text-xl
+}
+
+.categories{
+    @apply bg-lime-500 rounded-full text-sm px-3
+}

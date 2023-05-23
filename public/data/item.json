@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Wireless Bluetooth Earphones",
+    "description": "High-quality wireless earphones with Bluetooth connectivity.",
+    "price": "$49.99"
+  },
+  {
+    "name": "Smartphone Tripod Stand",
+    "description": "Adjustable tripod stand for smartphones, perfect for photography and videography.",
+    "price": "$19.99"
+  },
+  {
+    "name": "Portable External Hard Drive",
+    "description": "Compact and portable external hard drive with large storage capacity.",
+    "price": "$89.99"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Qi-enabled wireless charging pad compatible with various smartphones.",
+    "price": "$29.99"
+  },
+  {
+    "name": "Fitness Tracker Watch",
+    "description": "A wristwatch that tracks your daily activities, heart rate, and sleep patterns.",
+    "price": "$69.99"
+  },
+  {
+    "name": "Bluetooth Portable Speaker",
+    "description": "Portable speaker with Bluetooth connectivity for wireless audio playback.",
+    "price": "$39.99"
+  },
+  {
+    "name": "Waterproof Action Camera",
+    "description": "Rugged and waterproof action camera for capturing adventurous moments.",
+    "price": "$119.99"
+  },
+  {
+    "name": "Wireless Gaming Controller",
+    "description": "Wireless gaming controller for consoles and PC gaming.",
+    "price": "$59.99"
+  },
+  {
+    "name": "Foldable Laptop Stand",
+    "description": "Foldable and adjustable laptop stand for ergonomic use and portability.",
+    "price": "$24.99"
+  },
+  {
+    "name": "Smart Home Security Camera",
+    "description": "HD security camera with motion detection and smartphone integration.",
+    "price": "$79.99"
+  },
+  {
+    "name": "Noise-Canceling Bluetooth Headphones",
+    "description": "High-quality noise-canceling headphones with Bluetooth connectivity.",
+    "price": "$129.99"
+  },
+  {
+    "name": "Tripod Camera Stand",
+    "description": "High-quality tripod camera stand with magnetic features.",
+    "price": "$31.99"
+  }
+]

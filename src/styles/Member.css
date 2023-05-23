@@ -1,0 +1,15 @@
+.member-container{
+    @apply p-10
+}
+
+.heading-text{
+    @apply font-bold text-4xl font-poppins text-center
+}
+
+.member-list{
+    @apply flex flex-wrap justify-around mt-10 font-poppins text-center font-semibold
+}
+
+.member-list img{
+    @apply h-[12rem] lg:h-[15rem]
+}

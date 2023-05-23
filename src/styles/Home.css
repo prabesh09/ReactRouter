@@ -1,0 +1,49 @@
+.hero-container{
+    @apply h-[91.4vh] 
+    flex 
+    items-center
+    justify-between 
+    p-20 
+    text-4xl
+    text-left
+    text-white
+    font-bold
+    bg-gradient-to-r from-violet-500 to-fuchsia-500
+    overflow-hidden
+    max-md:px-4
+    max-md:py-20
+    max-lg:text-5xl 
+    max-md:text-3xl
+    max-lg:flex-col
+    max-lg:w-full
+    max-lg:h-full
+    max-lg:text-center
+}
+
+.left-container{
+    @apply w-1/2 max-lg:w-full max-lg:h-1/2
+}
+
+.right-container {
+    @apply w-1/2 max-lg:w-full max-lg:h-1/2
+}
+
+.main-text{
+    @apply flex flex-col font-poppins font-bold
+}
+
+.email-container{
+    @apply flex h-12 w-full justify-center font-poppins text-xl font-normal my-10 max-md:px-10
+}
+
+.email-input{
+    @apply h-full w-full text-slate-700 px-3
+}
+
+.hero-btn{
+    @apply bg-pink-500 px-4
+}
+
+.right-container{
+    @apply grid place-content-center h-full
+}

@@ -1,0 +1,23 @@
+.account-container{
+    @apply text-2xl absolute p-5 font-poppins w-screen grid place-content-center h-[80vh]
+}
+
+.account-container input{
+    @apply bg-slate-500 outline-none p-1 text-white my-2
+}
+
+.user-help{
+    @apply flex gap-5 text-sm my-5
+}
+
+.login-btn{
+    @apply bg-lime-500 my-4 text-white px-5 py-2
+}
+
+.forget-pw-btn{
+    @apply text-blue-500
+}
+
+.create-account{
+    @apply underline
+}

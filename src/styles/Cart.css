@@ -1,0 +1,11 @@
+.cart-item{
+    @apply flex justify-around bg-blue-500 m-5 h-20 items-center text-2xl font-poppins text-white
+}
+
+.cart-header{
+    @apply flex justify-around bg-slate-500 m-5 h-10 items-center text-xl font-poppins text-white
+}
+
+.cart-total{
+    @apply bg-pink-400 m-5 font-poppins p-5 text-xl text-white
+}
